@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Sep 12 19:27:41 MSK 2020
+httpclient-4.5.8.jar>sonatype.org=
+httpclient-4.5.8.pom>sonatype.org=

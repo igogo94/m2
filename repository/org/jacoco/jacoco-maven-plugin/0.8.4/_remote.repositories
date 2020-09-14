@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Sep 12 19:29:53 MSK 2020
+jacoco-maven-plugin-0.8.4.jar>sonatype.org=
+jacoco-maven-plugin-0.8.4.pom>sonatype.org=
